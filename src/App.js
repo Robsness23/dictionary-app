@@ -12,9 +12,10 @@ export default function App() {
       <main>
         <Dictionary />
       </main>
-      <small className="App-footer">
-        Coded by Robyn Smith
-      </small>
+      <div className="App-footer">
+        This app was coded by 
+        <a href="https://www.linkedin.com/in/robyn-smith-27187910b/" target="_blank" rel="noreferrer"> Robyn Smith</a> and is open-sourced on <a href="https://github.com/Robsness23/dictionary-app" target="_blank" rel="noreferrer">Github</a>
+      </div>
       </div>
     </div>
   );

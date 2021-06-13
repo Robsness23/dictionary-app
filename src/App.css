@@ -1,2 +1,11 @@
+.App-header {
+  color: #107972;
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+  font-size: 60px;
+}
 
-
+.App-footer {
+  text-align: center;
+  margin: 60px 0;
+}
