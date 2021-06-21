@@ -7,7 +7,7 @@ export default function App() {
     <div className="App">
       <div className="container">
       <header className="App-header">
-        wordBook
+        
       </header>
       <main>
         <Dictionary defaultKeyword="forest" />
